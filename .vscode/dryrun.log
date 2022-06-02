@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/user/repos/cpp_blank_template'
+echo  'exe' has been compiled
+make: Leaving directory '/home/user/repos/cpp_blank_template'
+ 
